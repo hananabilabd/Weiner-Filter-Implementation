@@ -25,7 +25,7 @@
 
 ### Useful links
 
-    • Installing Latex for windows: Download and install [MikTex](https://miktex.org/download), then install [TexMaker](http://www.xm1math.net/texmaker/index.html).
-    • Installing Latex for Linux: follow [this](https://milq.github.io/install-latex-ubuntu-debian/)
-    • [Online](https://www.sharelatex.com/project) latex editor.
-    • Latex [tutorials](https://www.youtube.com/playlist?list=PLCRFsOKSM7ePUBOfh3O-K5XZldM5uCPwk)
+* Installing Latex for windows: Download and install [MikTex](https://miktex.org/download), then install [TexMaker](http://www.xm1math.net/texmaker/index.html).
+* Installing Latex for Linux: follow [this](https://milq.github.io/install-latex-ubuntu-debian/)
+* [Online](https://www.sharelatex.com/project) latex editor.
+* Latex [tutorials](https://www.youtube.com/playlist?list=PLCRFsOKSM7ePUBOfh3O-K5XZldM5uCPwk)

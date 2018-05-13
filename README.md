@@ -1,4 +1,4 @@
-# SBE406-wiener-filter Assignment
+# Signal Processing Wiener-Filter 
 
 ### Objectives
     • Wiener filter design
